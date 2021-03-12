@@ -15,6 +15,7 @@ sections:
         url: /store
         arrow: true
         style: primary
+    background_image: images/033115_1604_3.jpg
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
