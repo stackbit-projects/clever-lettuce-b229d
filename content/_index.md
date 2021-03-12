@@ -14,7 +14,7 @@ sections:
     background_image: images/gora.jpg
   - type: featured_products_section
     section_id: best_sellers_section
-    title: Best sellers
+    title: Вот такие
     icon: true
     light_title: true
     featured_products:
