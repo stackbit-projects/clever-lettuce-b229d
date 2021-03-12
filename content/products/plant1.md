@@ -11,6 +11,7 @@ default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
 category: content/category/bigplants.md
+default_thumbnail_image: images/fit988x988-image-2216-1553268843.jpg
 ---
 
 # Nulla suscipit
