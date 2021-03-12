@@ -7,9 +7,9 @@ sections:
     section_id: hero_section
     background_image_opacity: 65
     content: |
-      # У меня ничего не получается
+      # Я могу горы свернуть
 
-      :(
+      :)
     actions:
       - title: Помогите
         url: /store
