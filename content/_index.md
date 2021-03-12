@@ -10,11 +10,7 @@ sections:
       # Я могу горы свернуть
 
       :)
-    actions:
-      - title: Помогите
-        url: /store
-        arrow: true
-        style: primary
+    actions: []
     background_image: images/gora.jpg
   - type: featured_products_section
     section_id: best_sellers_section
