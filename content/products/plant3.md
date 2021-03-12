@@ -8,6 +8,7 @@ default_original_image: images/plant3-lg.jpg
 featured: true
 order: 3
 category: content/category/cactuses.md
+default_thumbnail_image: images/Moench_2339.jpg
 ---
 
 # Curabitur eu tempor
