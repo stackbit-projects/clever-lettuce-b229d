@@ -12,7 +12,7 @@ sections:
 
       :(
     actions:
-      - title: See all items
+      - title: Помогите
         url: /store
         arrow: true
         style: primary
